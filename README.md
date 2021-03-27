@@ -5,7 +5,7 @@ The project aims to improves the flight model of Project Mega Pack A321 with fli
 - Maintain the wing area of original PMP setting od 1380 sqft.
 - Move the position of aerodaynamic centre, horizontal tail and vertical tail to match the A321 3D model.
 - Reduce cruise lift tuning from 1 to 0.972 to emulate the effect of using wingtip fence instead of sharklet [1].
-. Increase induced drag from 1 to 1.01 to emulate the effect of using wingtip fence instead of sharklet [1].
+- Increase induced drag from 1 to 1.01 to emulate the effect of using wingtip fence instead of sharklet [1].
 - Change flaps angles and speed limits to match EASA TCDS No.: EASA.A.064 documents [2]
 - Change flaps lift and drag scalar to match landing angle of attack of A32NX.
 - Change slats speed limits to match EASA TCDS No.: EASA.A.064 documents [2].
