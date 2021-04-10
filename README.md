@@ -10,6 +10,7 @@ The project aims to improves the flight model of Project Mega Pack A321 with fli
 - Change flaps lift and drag scalar to match landing angle of attack of A32NX.
 - Change slats speed limits to match EASA TCDS No.: EASA.A.064 documents [2].
 - Change engine thrust specific fuel consumtion from 0.3 to 0.36 [3].
+- Updated the N1 and Mach on thrust to increase minimum thrust and decrease maximum thrust. Now you can taxi when the throttle is on idle. Max thrust is decreased to match reference number 4 [4].
 
 To install, simply copy `AMP_A321_fl_mod` folder and drop it in to your community folder.
 
