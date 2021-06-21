@@ -13,8 +13,7 @@ The project aims to improves the flight model of Project Mega Pack A321 with fli
 - Updated the N1 and Mach on thrust to increase minimum thrust and decrease maximum thrust. Now you can taxi when the throttle is on idle. Max thrust is decreased to match reference number 4 [4].
 
 To install, simply copy `AMP_A321_fl_mod` folder and drop it in to your community folder.
-
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Because this is a modification of Project Mega Pack A321, this work is also licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>
+Because this is a modification of Project Mega Pack A321, this work is also licensed under a GNU General Public License version 3.
 
 ## Reference
 [1] A. Alonso, "Analysis of Drag Reduction in Wingtip Devices", Bachelor, Universidad Carlos III de Madrid, 2021. Available: https://e-archivo.uc3m.es/bitstream/handle/10016/27640/TFG_Andrea_Mosquera_Alonso_2017.pdf. [Accessed: 27- Mar- 2021].
